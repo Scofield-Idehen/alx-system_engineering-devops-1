@@ -2,7 +2,7 @@
 
 ![mysql](https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg)
 
-The MySQL server provides a database management system with querying and connectivity capabilities, as well as the ability to have excellent data structure and integration with many different platforms.
+The MySQL server provides a database management system with querying and connectivity capabilities and the ability to have excellent data structure and integration with many different platforms.
 
 ## Needed Knowledge
 
@@ -37,7 +37,7 @@ The MySQL server provides a database management system with querying and connect
 
 - First go to site [dev.mysql.com](https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html) and copy the PGP PUBLIC KEY just immediately under the _Notice_ section to your clipboard.
 
-- Create a new file in your terminal with a .key extension and paste the PGP PUB KEY copied to clipboard.
+- Create a new file in your terminal with a .key extension and paste the PGP PUB KEY copied to the clipboard.
 - Then do the following
 
 ```bash
